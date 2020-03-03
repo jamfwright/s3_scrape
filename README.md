@@ -3,19 +3,26 @@ Checks for and lists accessible files and file information for multiple AWS S3 B
 
 Throw the the list of AWS S3 Buckets into a file and run this tool to see what (if any) files are publicly accessible.  Makes assessments fast and easy.
 
+
+
 ## Usage
+
 
 ### Basic
 
 `python s3_scrape.py -f file_with_buckets.txt`
 
+
 ### Redirect to file
 
 `python s3_scrape.py -f file_with_buckets.txt > bucket_data.txt`
 
+
+
 ## Output
 
 The output is live and shows whether or not the bucket is accessible and if accessible, provides information about the files.  Statistics are listed at the end of the output.
+
 
 ### Example Output
 
