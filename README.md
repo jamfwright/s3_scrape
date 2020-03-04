@@ -151,10 +151,15 @@ Total Files in Bucket:  0
 
 -------------------- STATISTICS --------------------
 
+
 Total Buckets Checked:  10
+
 Accessible Buckets:  4
+
 Inaccessible Buckets:  6
+
 Accessible Files:  10
+
 
 -----------------------------------------------------
 
