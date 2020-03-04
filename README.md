@@ -26,6 +26,7 @@ The output is live and shows whether or not the bucket is accessible and if acce
 
 ### Example Output
 
+```
 -------------------- BUCKET ACCESSIBLE --------------------
 
 [!] Bucket Accessible:  example1.s3.amazonaws.com
@@ -166,4 +167,4 @@ Accessible Files:  10
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-
+```
