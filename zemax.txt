@@ -1,0 +1,2 @@
+zemaxfiles.s3.amazonaws.com
+zemaxsupport.s3.amazonaws.com
